@@ -18,7 +18,7 @@ var app = express();
 var mongoose = require('mongoose');
 //Set up default mongoose connection
 var mongoDB = 'mongodb://lubegasimon:M.24*Ac-74*@ds119072.mlab.com:19072/local_library';
-mongoose.connect(mongoDB);
+mongoose.connect(mongoDB, { useNewUrlParser: true });
 // Get Mongoose to use the global promise library
 mongoose.Promise = global.Promise;
 
