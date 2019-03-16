@@ -20,6 +20,7 @@
     "moment": "^2.22.2",
     "mongoose": "^5.2.8",
     "morgan": "~1.0.0",
+    "mpath": "^0.5.1",
     "static-favicon": "~1.0.0",
     "uglify-js": "^2.6.0"
   },
