@@ -10,7 +10,7 @@
     "async": "^2.6.1",
     "body-parser": "^1.18.3",
     "compression": "^1.7.3",
-    "constantinople": "^3.1.2",
+    "constantinople": "^3.1.1",
     "cookie-parser": "^1.4.3",
     "debug": "^2.6.9",
     "express": "^4.16.3",
