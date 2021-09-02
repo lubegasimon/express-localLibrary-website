@@ -21,7 +21,7 @@
     "moment": "^2.22.2",
     "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
-    "mpath": "^0.5.1",
+    "mpath": "^0.8.4",
     "static-favicon": "~1.0.0",
     "uglify-js": "^2.6.0"
   },
